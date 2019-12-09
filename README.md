@@ -1,2 +1,2 @@
 # EdurekaProject2
-Protect to test my CI/CD skills
+Project to test my CI/CD skills
